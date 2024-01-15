@@ -89,6 +89,7 @@ const getMd = async ({
   try {
     const markdownModule = await import(
       `../../public/markdown/${section}/${"id" in item ? item.id : "introduce"}.md`
+      
     );
     return { ...item, markdown: markdownModule.default as string };
   } catch {
