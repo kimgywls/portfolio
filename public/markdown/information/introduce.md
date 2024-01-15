@@ -1,7 +1,5 @@
-- Hoo-ooh-ooh-ooh
-- Hoo-ooh-ooh-ooh
-- Stay in the middle
-- Like you a little
-- Don't want no riddle
-- 말해줘 say it back, oh, say it ditto
-- 아침은 너무 멀어 so say it ditto
+- 안녕하세요! 저는 항상 새로운 것을 배우고 학습하는 것을 즐기는 열정적인 사람입니다. 
+지적 호기심과 탐구 정신을 갖고, 다양한 주제에 대한 이해를 높이고자 끊임없이 노력하고 있습니다.
+
+- 동양미래대학교 정보통신공학 - 네트워크 전공 졸업
+- 세종대학교 컴퓨터공학과 편입
