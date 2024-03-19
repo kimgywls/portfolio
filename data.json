@@ -12,6 +12,10 @@
     ]
   },
 
+  "workExperience": [
+
+  ],
+
   "project": [
     {
       "id": 0,
@@ -53,6 +57,9 @@
       "period": ["2024.02", "2024. 04"],
       "stack": ["Nextjs", "Flask", "Mysql", "AWS Cloud", "AWS Native Service"]
     }
+  ],
+
+  "activity": [
   ],
 
   "education": [
@@ -107,5 +114,8 @@
       "date": "2017. 07",
       "organizer": "한국정보통신자격협회"
     }
+  ],
+
+  "award": [
   ]
 }
