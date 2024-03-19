@@ -45,7 +45,7 @@
       "repoUrl": "https://github.com/kimgywls/moduleProject_1",
       "isTeam": true,
       "period": ["2023.12", "2024. 01"],
-      "stack": ["JavaScript", "HTML/CSS", "Flask", "Mysql", "AWS EC2", "AWS WAF"]
+      "stack": ["JavaScript", "HTML/CSS", "Flask", "Mysql", "AWS Service"]
     },
     {
       "id": 3,
@@ -55,7 +55,7 @@
       "repoUrl": "https://github.com/orgs/CHWI-JI-JIG/repositories",
       "isTeam": true,
       "period": ["2024.02", "2024. 04"],
-      "stack": ["Nextjs", "Flask", "Mysql", "AWS Cloud", "AWS Native Service"]
+      "stack": ["Nextjs", "Flask", "Mysql", "AWS Service"]
     }
   ],
 
