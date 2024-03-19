@@ -12,10 +12,6 @@
     ]
   },
 
-  "workExperience": [
-
-  ],
-
   "project": [
     {
       "id": 0,
@@ -46,10 +42,17 @@
       "isTeam": true,
       "period": ["2023.12", "2024. 01"],
       "stack": ["JavaScript", "HTML/CSS", "Flask", "Mysql", "AWS EC2", "AWS WAF"]
+    },
+    {
+      "id": 3,
+      "name": "네번째 팀 프로젝트",
+      "description": "sk 쉴더스 루키즈 최종 프로젝트 - 취지직 쇼핑몰 구축 & 취약점 진단",
+      "webUrl": "https://github.com/orgs/CHWI-JI-JIG/repositories",
+      "repoUrl": "https://github.com/orgs/CHWI-JI-JIG/repositories",
+      "isTeam": true,
+      "period": ["2024.02", "2024. 04"],
+      "stack": ["Nextjs", "Flask", "Mysql", "AWS Cloud", "AWS Native Service"]
     }
-  ],
-
-  "activity": [
   ],
 
   "education": [
@@ -57,49 +60,52 @@
       "id": 0,
       "name": "sk 쉴더스 루키즈 - 클라우드 기반 스마트 융합보안 과정 ",
       "period": ["2023. 10", "2024. 04"],
-      "description": "sk 쉴더스에서 주관하는 sk 쉴더스 루키즈 교육 참여\n -> 기본적인 python 문법 수업 / 클라우드아키텍쳐 구현 / 웹기반 취약점&보안방법등 을 학습\n"
+      "description": "sk 쉴더스에서 주관하는 sk 쉴더스 루키즈 교육 참여\n -> 기본적인 python 문법 수업 / 클라우드아키텍쳐 구현 / 웹기반 취약점 진단/ 모의해킹등 을 학습\n"
     }    
   ],
 
   "certificate": [
     {
       "id": 0,
+      "name": "AWS Certified Cloud Practitioner",
+      "date": "2024. 01",
+      "organizer": "AWS"
+    },
+    {
+      "id": 1,
       "name": "SQLD",
       "date": "2023. 10",
       "organizer": "한국데이터베이스진흥센터"
     },
     {
-      "id": 1,
+      "id": 2,
       "name": "TOEIC 720",
       "date": "2023. 08. 20",
       "organizer": "ETS"
     },
     {
-      "id": 2,
+      "id": 3,
       "name": "정보처리기사",
       "date": "2022. 09",
       "organizer": "한국산업인력공단"
     },
     {
-      "id": 3,
+      "id": 4,
       "name": "컴퓨터활용능력",
       "date": "2019.05",
       "organizer": "대한상공회의소"
     },
     {
-      "id": 4,
+      "id": 5,
       "name": "리눅스 마스터 2급",
       "date": "2018. 03",
       "organizer": "한국정보통신진흥협회"
     },
     {
-      "id": 5,
+      "id": 6,
       "name": "네트워크관리사 2급",
       "date": "2017. 07",
       "organizer": "한국정보통신자격협회"
     }
-  ],
-
-  "award": [
   ]
 }
