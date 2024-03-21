@@ -58,11 +58,8 @@
       "stack": ["Nextjs", "Nginx", "Flask", "Mysql", "AWS Service"]
     }
   ],
-
-  "activity": [
-  ],
-
-  "education": [
+  
+   "education": [
     {
       "id": 0,
       "name": "sk 쉴더스 루키즈 - 클라우드 기반 스마트 융합보안 과정 ",
@@ -71,21 +68,31 @@
     }    
   ],
 
-  "certificate": [
+  "study": [
     {
       "id": 0,
+      "name": "SK 쉴더스 Rookies - 맥주는 클라우드 draft",
+      "webUrl": "https://jin0213.tistory.com/",
+      "period": ["2023.12", "2024.02"],
+      "description": "모의 해킹"
+    }
+  ],
+
+  "certificate": [
+    {
+      "id": 6,
       "name": "AWS Certified Cloud Practitioner",
       "date": "2024. 01",
       "organizer": "AWS"
     },
     {
-      "id": 1,
+      "id": 5,
       "name": "SQLD",
       "date": "2023. 10",
       "organizer": "한국데이터베이스진흥센터"
     },
     {
-      "id": 2,
+      "id": 4,
       "name": "TOEIC 720",
       "date": "2023. 08. 20",
       "organizer": "ETS"
@@ -97,19 +104,19 @@
       "organizer": "한국산업인력공단"
     },
     {
-      "id": 4,
+      "id": 2,
       "name": "컴퓨터활용능력",
       "date": "2019.05",
       "organizer": "대한상공회의소"
     },
     {
-      "id": 5,
+      "id": 1,
       "name": "리눅스 마스터 2급",
       "date": "2018. 03",
       "organizer": "한국정보통신진흥협회"
     },
     {
-      "id": 6,
+      "id": 0,
       "name": "네트워크관리사 2급",
       "date": "2017. 07",
       "organizer": "한국정보통신자격협회"
@@ -117,5 +124,12 @@
   ],
 
   "award": [
+    {
+      "id": 0,
+      "name": "창의설계경진 대회",
+      "date": "2022.12",
+      "organizer": "세종대학교 SW/AI중심대학추진단",
+      "description": "SW전공 캡스톤디자인 및 창의학기제 팀프로젝트 수행 결과물에 대한 평가 및 작품발표회"
+    }
   ]
 }
