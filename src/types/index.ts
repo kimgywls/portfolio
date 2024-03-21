@@ -48,6 +48,7 @@ export interface DataProps {
     name: string;
     description: string;
     period: string[];
+    webUrl?: string;
   }[];
   education: {
     id: number;
