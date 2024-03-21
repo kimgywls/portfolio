@@ -33,6 +33,15 @@
       "stack": ["", "", ""]
     }
   ],
+    
+  "education": [
+    {
+      "id": 0,
+      "name": "",
+      "description": "",
+      "period": ["", ""]
+    }
+  ],
 
   "study": [
     {
@@ -41,15 +50,6 @@
       "webUrl": "",
       "period": ["", ""],
       "description": ""
-    }
-  ],
-  
-  "education": [
-    {
-      "id": 0,
-      "name": "",
-      "description": "",
-      "period": ["", ""]
     }
   ],
 
