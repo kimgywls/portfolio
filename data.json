@@ -80,19 +80,19 @@
 
   "certificate": [
     {
-      "id": 6,
+      "id": 0,
       "name": "AWS Certified Cloud Practitioner",
       "date": "2024. 01",
       "organizer": "AWS"
     },
     {
-      "id": 5,
+      "id": 1,
       "name": "SQLD",
       "date": "2023. 10",
       "organizer": "한국데이터베이스진흥센터"
     },
     {
-      "id": 4,
+      "id": 2,
       "name": "TOEIC 720",
       "date": "2023. 08. 20",
       "organizer": "ETS"
@@ -104,19 +104,19 @@
       "organizer": "한국산업인력공단"
     },
     {
-      "id": 2,
+      "id": 4,
       "name": "컴퓨터활용능력",
       "date": "2019.05",
       "organizer": "대한상공회의소"
     },
     {
-      "id": 1,
+      "id": 5,
       "name": "리눅스 마스터 2급",
       "date": "2018. 03",
       "organizer": "한국정보통신진흥협회"
     },
     {
-      "id": 0,
+      "id": 6,
       "name": "네트워크관리사 2급",
       "date": "2017. 07",
       "organizer": "한국정보통신자격협회"
