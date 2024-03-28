@@ -35,7 +35,7 @@
       "repoUrl": "https://github.com/kimgywls/Capstone3",
       "isTeam": true,
       "period": ["2022. 09", "2022. 12"],
-      "stack": ["JavaScript", "HTML/CSS", "Flask", "Mysql", "AWS", "YOLO.v7"]
+      "stack": ["JavaScript", "HTML/CSS", "Flask", "Mysql", "Nginx", "AWS", "YOLO.v7"]
     },
     {
       "id": 2,
