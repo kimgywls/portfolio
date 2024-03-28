@@ -25,7 +25,7 @@
       "repoUrl": "https://github.com/kimgywls/database_projcet_hospitalmanagement",
       "isTeam": true,
       "period": ["2020. 03", "2022. 06"],
-      "stack": ["HTML/CSS","JavaScript", "PHP", "Mysql"]
+      "stack": ["JavaScript", "HTML/CSS", "PHP", "Mysql"]
     },
     {
       "id": 1,
