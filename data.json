@@ -35,7 +35,7 @@
       "repoUrl": "https://github.com/kimgywls/Capstone3",
       "isTeam": true,
       "period": ["2022. 09", "2022. 12"],
-      "stack": ["JavaScript", "HTML/CSS", "Flask", "Mysql", "AWS EC2", "AWS cloudfront", "YOLO.v7"]
+      "stack": ["JavaScript", "HTML/CSS", "Flask", "Mysql", "AWS", "YOLO.v7"]
     },
     {
       "id": 2,
@@ -45,7 +45,7 @@
       "repoUrl": "https://github.com/kimgywls/moduleProject_1",
       "isTeam": true,
       "period": ["2023.12", "2024. 01"],
-      "stack": ["JavaScript", "HTML/CSS", "Flask", "Mysql", "AWS Service"]
+      "stack": ["JavaScript", "HTML/CSS", "Flask", "Mysql", "AWS"]
     },
     {
       "id": 3,
@@ -55,7 +55,7 @@
       "repoUrl": "https://github.com/orgs/CHWI-JI-JIG/repositories",
       "isTeam": true,
       "period": ["2024.02", "2024. 04"],
-      "stack": ["Nextjs", "Nginx", "Flask", "Mysql", "AWS Service"]
+      "stack": ["Nextjs", "Nginx", "Flask", "Mysql", "AWS"]
     }
   ],
   
