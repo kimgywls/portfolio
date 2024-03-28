@@ -81,21 +81,21 @@
   "certificate": [
     {
       "id": 0,
+      "name": "TOEIC 720",
+      "date": "2023. 08. 20",
+      "organizer": "ETS"
+    },
+    {
+      "id": 1,
       "name": "AWS Certified Cloud Practitioner",
       "date": "2024. 01",
       "organizer": "AWS"
     },
     {
-      "id": 1,
+      "id": 2,
       "name": "SQLD",
       "date": "2023. 10",
       "organizer": "한국데이터베이스진흥센터"
-    },
-    {
-      "id": 2,
-      "name": "TOEIC 720",
-      "date": "2023. 08. 20",
-      "organizer": "ETS"
     },
     {
       "id": 3,
@@ -121,7 +121,7 @@
       "date": "2017. 07",
       "organizer": "한국정보통신자격협회"
     }
-  ],
+],
 
   "award": [
     {
